@@ -9,12 +9,19 @@
         <div class="intro_text">
           <h4>Hi there, My Name is</h4>
           <h3 class="name">MICHEAL ADISA</h3>
-          <h5>Software Enginner</h5>
+          <h5>Software Engineer</h5>
           <p>
             I like to build scalable FE products with great user experiences.
           </p>
           <p>“Transforming your designs for use”</p>
           <h6>Lagos, Nigeria.</h6>
+          <div class="socials">
+              <ul>
+                  <li><a href="https://github.com/adisamicheal" rel="noopener" target="_blank">GH</a></li>
+                  <li><a href="https://twitter.com/michellead">TW</a></li>
+                  <li><a href="https://www.linkedin.com/in/micheal-adisa-5b5250170/">LN</a></li>
+              </ul>
+          </div>
         </div>
       </div>
     </div>
@@ -27,10 +34,9 @@
         to transform designs into relatable and interactive softwares having
         scalability in mind. Highly skilled at progressive enhancemnet, design
         systems and UI Engineering. I am an engineer who values high-performance
-        accessible web experiences. I design enure my products are quality,
-        user-friendly and scalable. I reaaly believe in the fact that all
-        problem have an actual solution which is somewhere lurking around
-        waiting to be found. <br><br> PS: In my spare time i do music &#128513;.
+        accessible web experiences. I design and ensure my products are quality,
+        user-friendly and scalable. I believe in the fact that every
+        problem have an actual solution. <br><br> PS: In my spare time i do music &#128513;.
       </p>
     </div>
     <div class="services white" id="services">

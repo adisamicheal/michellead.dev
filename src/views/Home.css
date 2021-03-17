@@ -102,6 +102,21 @@
     margin: 20px 0;
     color: #64B6AC;
   }
+  .socials {
+    margin-top: 30px;
+  }
+  .socials ul{
+    list-style: none;
+    display: flex;
+  }
+  .socials ul li {
+    margin-right: 10px;
+      
+  }
+  .socials ul li a {
+    color: #fafafa;
+    text-decoration: none;
+  }
   .about_me {
     background-image: url(../assets/about.png);
     background-position: center;
@@ -174,6 +189,12 @@
   .contact_name, .contact_email, .contact_message {
       display: flex;
       flex-direction: column;
+  }
+  input:focus {
+    outline-width: 0;
+  }
+  textarea:focus {
+    outline-width: 0;
   }
   .contact_name, .contact_email {
       width: 40%;
