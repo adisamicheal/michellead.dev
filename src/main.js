@@ -3,7 +3,11 @@ import App from './App.vue'
 import router from './router'
 
 Vue.config.productionTip = false
-Vue.config.devtools = true
+
+console.log(window.location.hostname);
+if (window.location.hostname === "michellead.netlify.app") {
+  Vue.config.devtools = true
+}
 
 new Vue({
   router,
