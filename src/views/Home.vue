@@ -7,7 +7,7 @@
       <div class="intro" id="home">
         <!-- <div><img src="../assets/me.png" /></div> -->
         <div class="intro_text">
-          <h4>Hi there, My Name is</h4>
+          <h4>Hi there, i'm</h4>
           <h3 class="name">MICHEAL ADISA</h3>
           <h5>Software Engineer</h5>
           <p>
@@ -92,6 +92,7 @@
 <script>
 import Navbar from "@/components/Navbar.vue";
 import Footer from "@/components/Footer.vue";
+
 export default {
   components: {
     Navbar,

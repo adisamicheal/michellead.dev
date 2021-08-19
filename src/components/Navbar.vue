@@ -28,13 +28,6 @@
 <script>
 export default {
   name: 'navbar',
-  // mounted() {
-  //       $(document).scroll(function(){
-  //       var $nav = $(".navbar");
-  //       $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
-  //   });
-  // 0f1e32
-  // }
   mounted() {    
         const openMenu =document.getElementById('toggler')
         const closeMenu =document.getElementById('hider')
@@ -55,7 +48,7 @@ export default {
   display: flex;
   justify-content: space-between;
   padding: 25px 100px 50px 100px;
-  width: 100vw;
+  /* width: 100vw; */
   /* background: #ffffff; */
 }
 .fixed-top.scrolled{

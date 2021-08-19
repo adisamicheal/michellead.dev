@@ -11,9 +11,9 @@ html {
 }
 #app {
   font-family: Lato;
-  max-width: 1440px;
+  /* max-width: 1440px;
   display: block;
-  margin: auto;
+  margin: auto; */
 }
 * {
   margin: 0;
