@@ -5,7 +5,7 @@ import router from './router'
 Vue.config.productionTip = false
 
 console.log(window.location.hostname);
-if (window.location.hostname === "michellead.netlify.app") {
+if (window.location.hostname !== "michellead.netlify.app") {
   Vue.config.devtools = true
 }
 

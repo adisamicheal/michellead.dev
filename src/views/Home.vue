@@ -8,7 +8,7 @@
         <!-- <div><img src="../assets/me.png" /></div> -->
         <div class="intro_text">
           <h4>Hi there, i'm</h4>
-          <h3 class="name">MICHEAL ADISA</h3>
+          <h3 class="name">MICHEAL ADISA.</h3>
           <h5>Software Engineer</h5>
           <p>
             I like to build scalable FE products with great user experiences.
